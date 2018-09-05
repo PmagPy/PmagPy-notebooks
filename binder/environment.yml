@@ -8,6 +8,7 @@ dependencies:
   - matplotlib=2.2.2
   - pandas=0.23.1
   - basemap=1.1.0
+  - basemap-data-hires=1.1.0
   - scipy=1.0.0
   - pip:
     - pmagpy
