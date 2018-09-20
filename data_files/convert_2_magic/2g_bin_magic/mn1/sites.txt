@@ -1,3 +1,0 @@
-tab	sites
-geologic_classes	geologic_types	lat	lithologies	location	lon	site
-				unknown		mn001

@@ -1,3 +1,0 @@
-tab	sites
-site	location	lat	lon	analysts	citations
-SML05	unknown			Anita	This study
