@@ -10,6 +10,8 @@ dependencies:
   - basemap=1.1.0
   - basemap-data-hires=1.1.0
   - scipy=1.0.0
+  - cartopy=0.16.0
+#  - #cython                    0.28.5
   - pip:
     - pmagpy
     - pmagpy-cli

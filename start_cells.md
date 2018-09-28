@@ -18,7 +18,7 @@ This notebook demonstrates the use of **PmagPy** functions from within a  Jupyte
 
 # PmagPy Command Line Version
 
-This notebook demonstrates the use of **PmagPy** command line scripts in parallel with the PmagPy cookbook http://earthref.org/PmagPy/cookbook.   For more detailed descriptions of programs and examples of how to use them in a more sophisticated way from within a notebook, see the **\_PmagPy\_nb** version.
+This notebook demonstrates the use of **PmagPy** command line scripts in parallel with the PmagPy cookbook http://earthref.org/PmagPy/cookbook.   For more detailed descriptions of programs and examples of how to use them in a more sophisticated way from within a notebook, see the [PmagPy notebook](https://mybinder.org/v2/gh/PmagPy/PmagPy-notebooks/master?filepath=PmagPy.ipynb).
 
 - What is **PmagPy**?  A software package for analyzing paleomagnetic and rock magnetic data using Python.
 - What are paleomagnetism and rock magnetism?  See textbook at: https://earthref.org/MagIC/books/Tauxe/Essentials/
