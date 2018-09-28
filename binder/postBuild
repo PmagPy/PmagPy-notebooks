@@ -1,0 +1,3 @@
+#!/bin/bash
+
+export PROJ_LIB=$CONDA_PREFIX/share/proj
