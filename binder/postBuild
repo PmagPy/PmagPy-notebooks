@@ -1,3 +1,9 @@
 #!/bin/bash
 
+# doesn't seem to work to fix basemap
 export PROJ_LIB=$CONDA_PREFIX/share/proj
+
+# try to get display to work
+sudo apt-get update -qq  # make sure package indexes are up to date
+"export DISPLAY=:99.0"  # make the GUI testing work with the host machine display
+"sh -e /etc/init.d/xvfb start"
