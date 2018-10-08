@@ -1,9 +1,9 @@
 # PmagPy Jupyter Notebook Version
 
-by Lisa Tauxe, Lori Jonestrask, Nick Swanson-Hysell and Ron Shaar
+by Lisa Tauxe, Lori Jonestrask, Nick Swanson-Hysell and Nick Jarboe
 
 
-This notebook demonstrates the use of **PmagPy** functions from within a  Jupyter notebook. More information is available in the PmagPy cookbook http://earthref.org/PmagPy/cookbook.   For examples of how to use PmagPy scripts on the command line, see the [PmagPy-cli notebook](https://mybinder.org/v2/gh/PmagPy/PmagPy-notebooks/master?filepath=PmagPy-cli.ipynb).
+This notebook demonstrates the use of **PmagPy** functions from within a  Jupyter notebook. More information is available in the PmagPy cookbook http://earthref.org/PmagPy/cookbook.   For examples of how to use PmagPy scripts on the command line, see the [PmagPy-cli notebook](http://pmagpy.github.io/PmagPy-cli.html).
 
 - What is **PmagPy**?  A software package for analyzing paleomagnetic and rock magnetic data using Python.
 - What are paleomagnetism and rock magnetism?  See textbook at: https://earthref.org/MagIC/books/Tauxe/Essentials/
