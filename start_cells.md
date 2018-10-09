@@ -11,4 +11,4 @@ This notebook demonstrates the use of **PmagPy** functions from within a  Jupyte
 
 ### Importing packages and modules into the notebook
 - To use the functions in this notebook, we have to   import the pmagpy modules, **pmagplotlib**, **pmag** and **ipmag** and some other handy functions for use in the notebook.
-- Run the code block below (click on the cell and then click 'Run'):
+- Run the code block below (click on the cell and then click 'Run', please be patient!):
