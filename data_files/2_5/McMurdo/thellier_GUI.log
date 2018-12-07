@@ -1,15 +1,13 @@
 starting...
--I- thellier_gui.preferences imported
- -I- cant find thellier_gui_preferences file, using defualt default 
 -I- Read magic file  /Users/nebula/Python/PmagPy/data_files/2_5/McMurdo/magic_measurements.txt
 -I- Anisotropy data read  /Users/nebula/Python/PmagPy/data_files/2_5/McMurdo/from rmag_anisotropy.txt
 -I- Anisotropy data read  /Users/nebula/Python/PmagPy/data_files/2_5/McMurdo/from rmag_anisotropy.txt
--I-  tanh parameters for specimen mc117b1 were calculated sucsessfuly
--I-  tanh parameters for specimen mc120c1 were calculated sucsessfuly
--I-  tanh parameters for specimen mc132e2 were calculated sucsessfuly
--I-  tanh parameters for specimen mc132g2 were calculated sucsessfuly
--I-  tanh parameters for specimen mc205b1 were calculated sucsessfuly
--I-  tanh parameters for specimen mc217a1 were calculated sucsessfuly
+-I-  tanh parameters for specimen mc117b1 were calculated successfully
+-I-  tanh parameters for specimen mc120c1 were calculated successfully
+-I-  tanh parameters for specimen mc132e2 were calculated successfully
+-I-  tanh parameters for specimen mc132g2 were calculated successfully
+-I-  tanh parameters for specimen mc205b1 were calculated successfully
+-I-  tanh parameters for specimen mc217a1 were calculated successfully
 -I- Done calculating non linear TRM parameters for all specimens
 -E- ERROR: skipping specimen mc01c, not enough measurements - moving forward 
 -E- ERROR: skipping specimen mc01e, not enough measurements - moving forward 
@@ -617,4 +615,50 @@ starting...
 -E- ERROR: skipping specimen mc38b, not enough measurements - moving forward 
 -E- ERROR: skipping specimen mc38c, not enough measurements - moving forward 
 -E- ERROR: skipping specimen mc38e, not enough measurements - moving forward 
--E- ERROR: skipping
+-E- ERROR: skipping specimen mc38f, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc38h, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc39d, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc39e, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc39f, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc39g, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc39h, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc40c, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc40f, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc40g, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc40h, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc41a, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc41b, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc41c, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc41d, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc41e, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc41f, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc42b, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc42d, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc42f, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc42h, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc43a, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc43b, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc43c, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc43e, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc43g, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc44c, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc44d, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc44e, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc44f, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc48c, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc48d, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc48e, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc48h, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc49a, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc49b, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc49c, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc49d, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc49g, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc49h, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc50c, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc50d, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc50g, not enough measurements - moving forward 
+-E- ERROR: skipping specimen mc50h, not enough measurements - moving forward 
+-I- number of specimens in this project directory: 1046
+-I- number of samples in this project directory: 899
+-I- Read pmag_specimens.txt for previous interpretation-I- reading redo file and processing new temperature bounds-I- Read pmag_specimens.txt for previous interpretation
